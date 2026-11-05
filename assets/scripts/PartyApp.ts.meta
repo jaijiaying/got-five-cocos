@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.24",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "b6e4a1c2-7d35-4a90-8f16-3c9b0e5d7a41",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/PartyApp.js",
+    "importerSettings": 7,
+    "simulateGlobals": []
+  }
+}
